@@ -1,4 +1,4 @@
-var playlist = {stand: "by me"}
+var playlist = {stand: "by me"};
 
 function updatePlaylist(playlist, artistName, songTitle){
   playlist[artistName] = songTitle

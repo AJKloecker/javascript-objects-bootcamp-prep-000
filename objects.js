@@ -1,4 +1,4 @@
-var playlist = new Object();
+const playlist = new Object();
 playlist.artist = "song"
 
 function updatePlaylist(playlist, artistName, songTitle){
